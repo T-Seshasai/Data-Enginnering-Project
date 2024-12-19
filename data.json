@@ -1,51 +1,51 @@
 [
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Product_Categories.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Product_Categories.csv",
         "product_sink" : "AdventureWorks_Product_Categories",
         "product_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Calendar.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Calendar.csv",
         "product_sink" : "AdventureWorks_Calendar",
         "product_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Customers.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Customers.csv",
         "product_sink" : "AdventureWorks_Customers",
         "product_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Product_Subcategories.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
         "product_sink" : "Product_Subcategories",
         "product_sink_file" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Products.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Products.csv",
         "product_sink" : "AdventureWorks_Products",
         "product_sink_file" : "AdventureWorks_Products.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Returns.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Returns.csv",
         "product_sink" : "AdventureWorks_Returns",
         "product_sink_file":"AdventureWorks_Returns.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Sales_2015.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Sales_2015.csv",
         "product_sink" : "AdventureWorks_Sales_2015",
         "product_sink_file" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Sales_2016.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Sales_2016.csv",
         "product_sink" : "AdventureWorks_Sales_2016",
         "product_sink_file" : "AdventureWorks_Sales_2016.cvsv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Sales_2017.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Sales_2017.csv",
         "product_sink" : "AdventureWorks_Sales_2017",
         "product_sink_file" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "product_url" : "T-Seshasai/Data-Enginnering-Project/blob/main/AdventureWorks_Territories.csv",
+        "product_url" : "T-Seshasai/Data-Enginnering-Project/refs/heads/main/AdventureWorks_Territories.csv",
         "product_sink" : "AdventureWorks_Territories",
         "product_sink_file" : "AdventureWorks_Territories.csv"
     }
